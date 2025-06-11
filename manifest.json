@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "New Blank Tab",
+  "version": "1.0",
+  "description": "Opens a blank new tan.",
+  "chrome_url_overrides": {
+    "newtab": "blank.html"
+  },
+  "permissions": []
+}
