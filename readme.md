@@ -110,7 +110,7 @@ Everything is rendered locally. Your data stays on your machine.
 
 To install manually:
 
-1. Clone or download this repository.
+1. Clone (`git clone https://github.com/horue/Edge-Blank-Tab`) or [download](https://github.com/horue/Edge-Blank-Tab/releases/tag/1.0) this repository.
 2. Open Edge and go to `edge://extensions/`
 3. Enable "Developer mode" (toggle on top-right).
 4. Click "Load unpacked" and select the extension folder.
